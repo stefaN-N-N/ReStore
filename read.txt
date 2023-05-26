@@ -5,3 +5,5 @@ dotnet ef database drop
 
 dotnet watch --no-hot-reload || dotnet watch run
 dotnet new gitignore
+
+npx create-react-app client --template typescript --use-npm
