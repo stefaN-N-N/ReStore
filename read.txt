@@ -7,3 +7,6 @@ dotnet watch --no-hot-reload || dotnet watch run
 dotnet new gitignore
 
 npx create-react-app client --template typescript --use-npm
+
+npm install react-router-dom
+npm install axios
